@@ -13,7 +13,7 @@
     // router = departamentolistar
     
     $view = "";
-
+    // teste
     // config
         $url = "http://localhost/loja2-master";
 

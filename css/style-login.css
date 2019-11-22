@@ -1,0 +1,27 @@
+
+body{
+    background-color:#ffffffc2; 
+    font-size: 1.2325em;
+}
+form{
+    border: 1px solid red;
+    background-color:white; 
+    position: absolute;
+    box-sizing: border-box;
+    padding: 30px;
+    margin-top: 50px;
+    margin-right: 50px;
+    width: 450px;
+    height: 420px;
+}
+img{
+    height: 100px;
+}
+.teste{
+ background-color: red;
+}
+.form legend img{
+    text-align: center;
+    margin-left: 95px;
+}
+
